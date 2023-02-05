@@ -16,6 +16,9 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-jersey'
     implementation 'org.springframework.boot:spring-boot-starter-web'
     implementation 'org.projectlombok:lombok:1.18.22'
+    testImplementation 'junit:junit:4.13.1'
+    testImplementation 'junit:junit:4.13.1'
+    testImplementation 'junit:junit:4.13.1'
     runtimeOnly 'io.micrometer:micrometer-registry-prometheus'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     implementation("com.google.guava:guava:31.1-jre")
